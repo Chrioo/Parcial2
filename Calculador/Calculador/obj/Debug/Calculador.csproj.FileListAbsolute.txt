@@ -1,0 +1,6 @@
+C:\Users\USUARIO\Desktop\Progra ll\Calculador\Calculador\obj\Debug\Calculador.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Progra ll\Calculador\Calculador\obj\Debug\Calculador.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Desktop\Progra ll\Calculador\Calculador\obj\Debug\Calculador.Form1.resources
+C:\Users\USUARIO\Desktop\Progra ll\Calculador\Calculador\obj\Debug\Calculador.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\Progra ll\Calculador\Calculador\obj\Debug\Calculador.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\Progra ll\Calculador\Calculador\obj\Debug\Calculador.csproj.CoreCompileInputs.cache
